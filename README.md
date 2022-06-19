@@ -1,5 +1,3 @@
-![Web developer and Shopify expert]
-
 ### Hi there 👋, My name is Md Habibur Rahman Shanto
 ### Web developer and Shopify expert
 
