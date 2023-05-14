@@ -2,7 +2,7 @@
 #### Web developer and Shopify expert
 ![Web developer and Shopify expert](https://media.licdn.com/dms/image/D5616AQHoI_7EVSmdUQ/profile-displaybackgroundimage-shrink_350_1400/0/1684058832579?e=1689811200&v=beta&t=XIekEQBq8fN3k5UQIpwCIFKSbI3kd_FpHFqSs2smg7Y)
 
-👉 Are you looking for, An experinced Web Developer/ Shopify Expert/ JS Programmer?
+👉 Are you looking for, An experienced Web Developer/ Shopify Expert/ JS Programmer?
 
 CONGRATS! You're in the right place🤗
 This is Md Habibur Rahman Shanto who is extremely skilled in Shopify with 2.6 years of proper experience. And as for languages I have highly skilled in HTML5, CSS4, Bootstrap5, JavaScript, jQuery, Liquid, and lots more. I have been working in my local area and WEB DEVELOPMENT AGENCY for the last few years although I have now decided that I will share my experience all over the world. You will be happy to know that client satisfaction is my first priority.
