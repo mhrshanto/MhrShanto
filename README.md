@@ -1,13 +1,13 @@
 ![Website developer and Shopify expert](https://media.licdn.com/dms/image/D5616AQHFskSWtF-G6g/profile-displaybackgroundimage-shrink_350_1400/0/1684168770157?e=1689811200&v=beta&t=IcHG9OoauJDkm81RB9l2RjFFVs0MIhKCH5iDqg5_o1k)
-### Hi there🙋‍♂️, Here I'm Md Habibur Rahman Shanto
-#### WEBSITE DEVELOPER & SHOPIFY EXPERT
+### HI THERE🙋‍♂️, DO YOU WANNA KNOW ABOUT ME?
+#### I'M MD HABIBUR RAHMAN SHANTO, A WEBSITE DEVELOPER & SHOPIFY EXPERT
 
-👉 Are you looking for, An experienced Web Developer/ Shopify Expert/ JS Programmer For Your Assist?
+## MY MISSION IS TO EMPOWER BUSINESSES AND INDIVIDUALS BY CREATING TRANSFORMATIVE ONLINE EXPERIENCES THAT DRIVE GROWTH AND SUCCESS. COLLABORATION IS AT THE HEART OF MY APPROACH, AND I THRIVE ON WORKING CLOSELY WITH CLIENTS TO UNDERSTAND THEIR GOALS AND TRANSLATE THEM INTO INNOVATIVE SOLUTIONS.
+## MY PORTFOLIO SHOWCASES A DIVERSE RANGE OF PROJECTS THAT HIGHLIGHT MY EXPERTISE IN FRONT-END AND BACK-END DEVELOPMENT. WHETHER IT'S BUILDING CUSTOM WORDPRESS THEMES, IMPLEMENTING E-COMMERCE FUNCTIONALITY, OR DEVELOPING ROBUST WEB APPLICATIONS, I CONSISTENTLY DELIVER HIGH-QUALITY SOLUTIONS TAILORED TO MEET THE UNIQUE NEEDS OF MY CLIENTS.
+## SOME OF MY PROJECT LINK:
+[![Codesplanner][linkedin-shield]][linkedin-url]
 
-CONGRATS! You're in the right place🤗
-This is Md Habibur Rahman Shanto who is extremely skilled in Shopify with 2.6 years of proper experience. And as for languages I have highly skilled in HTML5, CSS4, Bootstrap5, JavaScript, jQuery, Liquid, and lots more. I have been working in my local area and WEB DEVELOPMENT AGENCY for the last few years although I have now decided that I will share my experience all over the world. You will be happy to know that client satisfaction is my first priority.
-
-Skills: SHOPIFY / LIQUID / HTML / CSS / JS / NodeJS / Express JS
+My Skills: SHOPIFY / LIQUID / HTML / CSS / JS / NodeJS / Express JS
 
 - 🔭 I’m currently working on Fiverr & Upwork Marketplace 
 - 🌱 I’m currently Improved my MERN Stack Development Knowledge
