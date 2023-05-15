@@ -10,7 +10,7 @@ My Protfolio Link:
 
 
 
-MY SKILLS: SHOPIFY / LIQUID / HTML / CSS / JS / NodeJS / Express JS
+My Skills: SHOPIFY / LIQUID / HTML / CSS / JS / NodeJS / Express JS
 
 - 🔭 I’m currently working on Fiverr & Upwork Marketplace 
 - 🌱 I’m currently Improved my MERN Stack Development Knowledge
