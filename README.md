@@ -1,4 +1,4 @@
-![Web developer and Shopify expert](https://media.licdn.com/dms/image/D5616AQGtLSXceuWgzQ/profile-displaybackgroundimage-shrink_350_1400/0/1684059691965?e=1689811200&v=beta&t=r5RghOyDKgCaEF9y0E2tYztp5mPaqYWewBxQU3UPeSw)
+![Web developer and Shopify expert](https://media.licdn.com/dms/image/D5616AQHKlibuEpE9ew/profile-displaybackgroundimage-shrink_350_1400/0/1684167790055?e=1689811200&v=beta&t=klDKKDbvFxN4UXCeWhFA3A5WRklsiRoRC_NKg19LNbk)
 ### Hi there 👋, I'm Md Habibur Rahman Shanto
 #### Web developer and Shopify expert
 
