@@ -20,9 +20,9 @@ Skills: SHOPIFY / LIQUID / HTML / CSS / JS / NodeJS / Express JS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mhrshanto&show_icons=true&count_private=true)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhrshanto)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub metrics](https://metrics.lecoq.io/mhrshanto)
 
-![GitHub metrics](https://metrics.lecoq.io/mhrshanto)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhrshanto)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=mhrshanto)  
 
