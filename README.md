@@ -10,18 +10,17 @@ This is Md Habibur Rahman Shanto who is extremely skilled in Shopify with 2.6 ye
 Skills: SHOPIFY / LIQUID / HTML / CSS / JS / NodeJS / Express JS
 
 - 🔭 I’m currently working on Fiverr & Upwork Marketplace 
-- 🌱 I’m currently learning MERN Development 
-- 👯 I’m looking to collaborate on GitHub 
-- 🤔 I’m looking for help with Shopify Project 
-- 💬 Ask me about Web Development & Shopify Dropshipping 
-- 📫 How to reach me: https://wa.me/1571153404 
+- 🌱 I’m currently Improved my MERN Stack Development Knowledge
+- 👯 I’m looking to collaborate with you on GitHub 
+- 💬 You can ask me about Web Development & Shopify Dropshipping 
+- 📫 Message me on Whatsapp: https://wa.me/1571153404 
 
 
  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhrshanto)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mhrshanto&show_icons=true&count_private=true)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhrshanto)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub metrics](https://metrics.lecoq.io/mhrshanto)  
 
