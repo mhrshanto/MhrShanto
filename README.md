@@ -17,9 +17,7 @@ Skills: SHOPIFY / LIQUID / HTML / CSS / JS / NodeJS / Express JS
 - 📫 How to reach me: https://wa.me/1571153404 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mhrshanto)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shanto36/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mdhabiburrahman36)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/MdHabib70159497)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/shanto36)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://codesplanner.com/)  
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=mhrshanto)](https://github.com/ryo-ma/github-profile-trophy)
+ 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhrshanto)](https://github.com/anuraghazra/github-readme-stats)
 
