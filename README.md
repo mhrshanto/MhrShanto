@@ -1,6 +1,6 @@
 ![Website developer and Shopify expert](https://media.licdn.com/dms/image/D5616AQHFskSWtF-G6g/profile-displaybackgroundimage-shrink_350_1400/0/1684168770157?e=1689811200&v=beta&t=IcHG9OoauJDkm81RB9l2RjFFVs0MIhKCH5iDqg5_o1k)
-### Hi there 👋, I'm Md Habibur Rahman Shanto
-#### Web developer and Shopify expert
+### Hi there 👋, My name is Md Habibur Rahman Shanto
+#### I'm Web developer and Shopify expert
 
 👉 Are you looking for, An experienced Web Developer/ Shopify Expert/ JS Programmer?
 
