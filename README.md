@@ -19,9 +19,6 @@ My Skills: SHOPIFY / LIQUID / HTML / CSS / JS / NodeJS / Express JS
 
 My portfolio showcases a diverse range of projects that highlight my expertise in front-end and back-end development. Whether it's building custom WordPress themes, implementing e-commerce functionality, or developing robust web applications, I consistently deliver high-quality solutions tailored to meet the unique needs of my clients.
 
-My GitHub Project Link:
-01. https://mhrshanto.github.io/AlexSmith/
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mhrshanto&show_icons=true&count_private=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/mhrshanto)
